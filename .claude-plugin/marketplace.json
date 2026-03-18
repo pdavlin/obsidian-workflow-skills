@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-workflow-skills",
+  "owner": {
+    "name": "Patrick Davlin",
+    "url": "https://github.com/pdavlin"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-workflows",
+      "source": "./",
+      "description": "Obsidian workflow skills for Claude Code",
+      "version": "1.0.0"
+    }
+  ]
+}

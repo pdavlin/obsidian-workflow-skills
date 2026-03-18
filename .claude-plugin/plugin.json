@@ -1,7 +1,7 @@
 {
   "name": "obsidian-workflows",
-  "version": "1.0.0",
-  "description": "Obsidian daily review, weekly synthesis, agent summaries, and frontmatter management via the Obsidian CLI.",
+  "version": "1.1.0",
+  "description": "Obsidian workflow skills: daily review, weekly synthesis, agent summaries, frontmatter management, and Granola meeting import via the Obsidian CLI.",
   "author": {
     "name": "Patrick Davlin",
     "url": "https://github.com/pdavlin"
@@ -12,6 +12,8 @@
     "obsidian",
     "daily-review",
     "weekly-synthesis",
-    "productivity"
+    "productivity",
+    "granola",
+    "meetings"
   ]
 }

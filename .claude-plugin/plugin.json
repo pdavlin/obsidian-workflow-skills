@@ -1,0 +1,17 @@
+{
+  "name": "obsidian-workflows",
+  "version": "1.0.0",
+  "description": "Obsidian daily review, weekly synthesis, agent summaries, and frontmatter management via the Obsidian CLI.",
+  "author": {
+    "name": "Patrick Davlin",
+    "url": "https://github.com/pdavlin"
+  },
+  "repository": "https://github.com/pdavlin/obsidian-workflow-skills",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "daily-review",
+    "weekly-synthesis",
+    "productivity"
+  ]
+}
